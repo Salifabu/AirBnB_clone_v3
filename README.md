@@ -72,7 +72,7 @@ TestBaseModelDocs class:
 * `def test_bm_func_docstrings(self)` - Test for the presence of docstrings in BaseModel methods
 
 TestBaseModel class:
-* `def test_is_base_model(self)` - Test that the instatiation of a BaseModel works
+i* `def test_is_base_model(self)` - Test that the instatiation of a BaseModel works
 * `def test_created_at_instantiation(self)` - Test created_at is a pub. instance attribute of type datetime
 * `def test_updated_at_instantiation(self)` - Test updated_at is a pub. instance attribute of type datetime
 * `def test_diff_datetime_objs(self)` - Test that two BaseModel instances have different datetime objects
@@ -160,3 +160,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+AirBnB clone - Web dynamic: Salifabu
+Alx-project
