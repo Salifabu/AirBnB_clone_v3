@@ -159,7 +159,27 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Second part of Airbnb: Joann Vuong
 ## License
+<<<<<<< HEAD
 Public Domain. No copy write protection. 
 
 AirBnB clone - Web dynamic: Salifabu
 Alx-project
+=======
+Public Domain. No copy write protection.
+
+AirBnB clone - RESTful API: Salifabu
+
+Resources
+Read or watch:
+
+REST API concept page
+Learn REST: A RESTful Tutorial
+Designing a RESTful API with Python and Flask
+HTTP access control (CORS)
+Flask cheatsheet
+What are Flask Blueprints, exactly?
+Flask
+Modular Applications with Blueprints
+Flask tests
+Flask-CORS 
+>>>>>>> 64f772ee99ec861d3252af5a0cc5477773de2777
