@@ -103,4 +103,3 @@ def link_amenity_to_place(place_id, amenity_id):
     resp.status_code = 201
 
     return resp
-

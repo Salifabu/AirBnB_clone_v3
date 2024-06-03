@@ -113,4 +113,3 @@ def place_delete_by_id(place_id):
     storage.save()
 
     return jsonify({})
-
